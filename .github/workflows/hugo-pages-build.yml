@@ -32,6 +32,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@1828d864aeb7ba79a37f40035aa6d0b7ff66254f
         with:
+          cname: misfir3.org
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./site/public 
