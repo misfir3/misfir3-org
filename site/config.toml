@@ -1,4 +1,66 @@
 baseURL = "http://misfir3.org/"
 languageCode = "en-us"
-title = "Just Misfir3's Blog"
-theme = "hugo-casper3"
+title = "Misfi3: The Blog"
+theme = "hugo-nederburg-theme"
+
+paginate = 3
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+
+[params]
+  facebook = "https://facebook.com"
+  twitter = "https://twitter.com"
+  github = "https://github.com/misfir3"
+  description = "Just my thoughts and experience, take 'em or leave 'em"
+  mainSections = ["post","blog","docs"]
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "image-credit"
+    name = "Image Credit"
+    url = "/image-credit/"
+    weight = 20
+  [[menu.main]]
+    identifier = "author"
+    name = "Author Homepage"
+    url = "https://misfir3.org"
+    weight = 40
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
