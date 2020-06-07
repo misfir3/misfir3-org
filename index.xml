@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Just Misfir3&#39;s Blog</title>
-    <link>http://example.org/</link>
+    <link>http://misfir3.org/</link>
     <description>Recent content on Just Misfir3&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://misfir3.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Bikepacking</title>
-      <link>http://example.org/post/bikepacking/</link>
+      <link>http://misfir3.org/post/bikepacking/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/bikepacking/</guid>
+      <guid>http://misfir3.org/post/bikepacking/</guid>
       <description>Just a test page. with one more change &amp;hellip; and another.</description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://example.org/content1/</link>
+      <link>http://misfir3.org/content1/</link>
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/content1/</guid>
+      <guid>http://misfir3.org/content1/</guid>
       <description>Test Page only a test
 Test H2 </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/archives/</link>
+      <link>http://misfir3.org/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/archives/</guid>
+      <guid>http://misfir3.org/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://misfir3.org/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://misfir3.org/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
