@@ -6,7 +6,6 @@ aliases = ["about-me","about-misfir3","contact"]
 author = "misfir3"
 +++
 
-# About misfir3
 
 ## The Handle
 Some years ago, I needed a catchy handle for social media, GitHub and the like. I was in the middle of changing my FT career from SW dev to InfoSec (AppSec).  My old go-to handle was too often taken and having numbers like 3 for e or the like was still semi-cool. misfir3 was commonl available.
