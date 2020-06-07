@@ -48,11 +48,19 @@
   </url>
   
   <url>
+    <loc>http://misfir3.org/about/</loc>
+  </url>
+  
+  <url>
     <loc>http://misfir3.org/categories/</loc>
   </url>
   
   <url>
     <loc>http://misfir3.org/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>http://misfir3.org/series/</loc>
   </url>
   
 </urlset>
