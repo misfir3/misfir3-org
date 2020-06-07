@@ -13,7 +13,7 @@ Some years ago, I needed a catchy handle for social media, GitHub and the like. 
 The backstory is simple. I wasn't "planned". I had heard a story by my parents about how my oldest brother was "longshot", The second was "sureshot". I wasn't planned, hence "misfire" (btw, I had to retype that 3 times to not have it end in a `3`). So I added the `3` and I had my new readily-available handle? I guess I "leaned into" that story, "owned it" ... whatever, it's just a story, it's not what or who I am.
 
 ## Why The Blog?
-We all intend to blog, write, maintain that personal website. Like everyone else, I did it off and on and did it more so 'brand myself' and create some cred for job transition puroses. Much of that is at [misfir3.wordpress.com](misfir3.wordpress.com) now. I decided to ...
+We all intend to blog, write, maintain that personal website. Like everyone else, I did it off and on and did it more so 'brand myself' and create some cred for job transition purposes. Much of that is at [misfir3.wordpress.com](https://misfir3.wordpress.com) now. I decided to ...
 
 1. Not bring that legacy stuff over. It's already on the internet forever
 2. I don't want to be so singly-focused anymore.
