@@ -1,7 +1,7 @@
 baseURL = "https://misfir3.org/"
 languageCode = "en-us"
 title = "Misfir3: The Blog"
-theme = "hugo-casper3"
+theme = "hugo-nederburg-theme"
 
 paginate = 3
 DefaultContentLanguage = "en"
@@ -9,9 +9,20 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
 
+UsePostImgFolder = true
+[privacy]
+  # Google Analytics privacy settings - https://gohugo.io/about/hugo-and-gdpr/index.html#googleanalytics
+  [privacy.googleAnalytics]
+    # set to true to disable service 
+    disable = true
+    # set to true to meet General Data Protection Regulation (GDPR)
+    anonymizeIP = false
+    respectDoNotTrack = true
+    useSessionStorage = false
+
+
+
 [params]
-  facebook = "https://facebook.com"
-  twitter = "https://twitter.com"
   github = "https://github.com/misfir3"
   description = "Just my thoughts and experience, take 'em or leave 'em"
   mainSections = ["post","blog","docs"]
@@ -22,40 +33,22 @@ footnoteReturnLinkContents = "^"
     name = "About"
     url = "/about/"
     weight = 10
-  [[menu.main]]
-    identifier = "image-credit"
-    name = "Image Credit"
-    url = "/image-credit/"
-    weight = 20
-  [[menu.main]]
-    identifier = "author"
-    name = "Author Homepage"
-    url = "https://misfir3.org"
-    weight = 40
+#   [[menu.main]]
+#     identifier = "image-credit"
+#     name = "Image Credit"
+#     url = "/image-credit/"
+#     weight = 20
+#   [[menu.main]]
+#     identifier = "author"
+#     name = "Author Homepage"
+#     url = "https://misfir3.org"
+#     weight = 40
 
 [taxonomies]
 category = "categories"
 tag = "tags"
 series = "series"
 
-[privacy]
-
-  [privacy.vimeo]
-    disabled = false
-    simple = true
-
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
-  [privacy.instagram]
-    disabled = false
-    simple = true
-
-  [privacy.youtube]
-    disabled = false
-    privacyEnhanced = true
 
 [services]
 

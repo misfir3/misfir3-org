@@ -1,28 +1,32 @@
 +++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+title = "About misfir3"
+description = "Nothing that special, just a little about me"
+date = "2020-06-06"
+aliases = ["about-me","about-misfir3","contact"]
+author = "misfir3"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+# About misfir3
 
-Hugo makes use of a variety of open source projects including:
+## The Handle
+Some years ago, I needed a catchy handle for social media, GitHub and the like. I was in the middle of changing my FT career from SW dev to InfoSec (AppSec).  My old go-to handle was too often taken and having numbers like 3 for e or the like was still semi-cool. misfir3 was commonl available.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+The backstory is simple. I wasn't "planned". I had heard a story by my parents about how my oldest brother was "longshot", The second was "sureshot". I wasn't planned, hence "misfire" (btw, I had to retype that 3 times to not have it end in a `3`). So I added the `3` and I had my new readily-available handle? I guess I "leaned into" that story, "owned it" ... whatever, it's just a story, it's not what or who I am.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+## Why The Blog?
+We all intend to blog, write, maintain that personal website. Like everyone else, I did it off and on and did it more so 'brand myself' and create some cred for job transition puroses. Much of that is at [misfir3.wordpress.com](misfir3.wordpress.com) now. I decided to ...
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+1. Not bring that legacy stuff over. It's already on the internet forever
+2. I don't want to be so singly-focused anymore.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+I just want to write in the hopes of helping out in some way. Whether that's expressign thoughts/opinions that somehow help someone or even help me to sort things out. We'll see how regularly I do this, but it's fun now to set something up (Hugo, Actions, GitHub pages).
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## Topics?
 
+No guarantees or limitations at the moment, but likely ...
 
+1. Cycling and Bikepacking are high on the likely topics
+2. Code, Security and general Tech, although I find I've had my fill with the work amount of that these days
+3. Things happening in the world, big and small. This may mean some political thoughts, but I hope we can all be adult enough to get through that.
 
+Cheers!
