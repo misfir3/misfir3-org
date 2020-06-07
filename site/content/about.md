@@ -19,7 +19,7 @@ We all intend to blog, write, maintain that personal website. Like everyone else
 1. Not bring that legacy stuff over. It's already on the internet forever
 2. I don't want to be so singly-focused anymore.
 
-I just want to write in the hopes of helping out in some way. Whether that's expressign thoughts/opinions that somehow help someone or even help me to sort things out. We'll see how regularly I do this, but it's fun now to set something up (Hugo, Actions, GitHub pages).
+I just want to write in the hopes of helping out in some way. Whether that's expressing thoughts/opinions that somehow help someone or even help me to sort things out. We'll see how regularly I do this, but it's fun now to set something different up again (Hugo, Actions, GitHub pages). We'll see how long it goes after the new-and-shiny wears off.
 
 ## Topics?
 
