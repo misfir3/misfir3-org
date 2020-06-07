@@ -10,4 +10,4 @@ tags = [
 feature_image = "/images/bikepacking.jpg"
 +++
 
-Just a test page. with one more change ... and another.
+Just a test page.

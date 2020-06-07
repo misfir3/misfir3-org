@@ -1,4 +1,4 @@
-baseURL = "http://misfir3.org/"
+baseURL = "https://misfir3.org/"
 languageCode = "en-us"
 title = "Misfi3: The Blog"
 theme = "hugo-nederburg-theme"
