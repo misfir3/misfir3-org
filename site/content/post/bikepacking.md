@@ -14,7 +14,7 @@ feature_image = ""
 
 Since I said I'd talk about bikepacking some, let me tell you about a recent (not completely successful trip). Before I continue on my summary version, let me tell you a better full version is [here](https://intotheoutdoors.wordpress.com/2020/05/17/connecting-the-hobble-creeks-a-bikepacking-s24o/).
 
-We had already canceled one planned trip (to the San Rafael well) in late March. We were starting to feel better about local trips (given the pandemic curve etc.), So we headed off. The picture at the top was from the day before the ride when I was doing a test run with the bike loded (but dry water bottles).
+We had already canceled one planned trip (to the San Rafael well) in late March. We were starting to feel better about local trips (given the pandemic curve etc.), So we headed off. The picture at the top was from the day before the ride when I was doing a test run with the bike loaded (but dry water bottles).
 
 It ended more or less at this point (within a mile of the campsite or so) when this happened. ![Ouch](/images/borked-wheel.jpg)
 
