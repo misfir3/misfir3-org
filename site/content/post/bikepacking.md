@@ -1,8 +1,8 @@
 +++
 author = "Misfir3"
-title = "Bikepacking"
+title = "Bikepacking Hobble L-R"
 date = "2020-05-31"
-description = "Me rambling about my interest in Bikepacking"
+description = "Actually, for me it was just left fork, no right"
 image = "/images/bikepacking.jpg"
 tags = [
     "bikepacking",
