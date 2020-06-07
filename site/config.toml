@@ -1,7 +1,7 @@
 baseURL = "https://misfir3.org/"
 languageCode = "en-us"
-title = "Misfi3: The Blog"
-theme = "hugo-nederburg-theme"
+title = "Misfir3: The Blog"
+theme = "hugo-casper3"
 
 paginate = 3
 DefaultContentLanguage = "en"
