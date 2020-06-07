@@ -6,10 +6,20 @@
     <description>Recent content on Misfir3: The Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://misfir3.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About misfir3</title>
+      <link>https://misfir3.org/about/</link>
+      <pubDate>Sat, 06 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://misfir3.org/about/</guid>
+      <description>About misfir3 The Handle Some years ago, I needed a catchy handle for social media, GitHub and the like. I was in the middle of changing my FT career from SW dev to InfoSec (AppSec). My old go-to handle was too often taken and having numbers like 3 for e or the like was still semi-cool. misfir3 was commonl available.
+The backstory is simple. I wasn&amp;rsquo;t &amp;ldquo;planned&amp;rdquo;. I had heard a story by my parents about how my oldest brother was &amp;ldquo;longshot&amp;rdquo;, The second was &amp;ldquo;sureshot&amp;rdquo;.</description>
+    </item>
     
     <item>
       <title>Bikepacking</title>
@@ -17,7 +27,8 @@
       <pubDate>Sun, 31 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://misfir3.org/post/bikepacking/</guid>
-      <description>Just a test page.</description>
+      <description>Since I said I&amp;rsquo;d talk about bikepacking some, let me tell you about a recent (not completely successful trip). Before I continue on my summary version, let me tell you a better full version is here.
+We had already canceled one planned trip (to the San Rafael well) in late March. We were starting to feel better about local trips (given the pandemic curve etc.), So we headed off. The picture at the top was from the day before the ride when I was doing a test run with the bike loded (but dry water bottles).</description>
     </item>
     
     <item>
@@ -37,17 +48,6 @@ Test H2 </description>
       
       <guid>https://misfir3.org/archives/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://misfir3.org/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://misfir3.org/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
   </channel>
