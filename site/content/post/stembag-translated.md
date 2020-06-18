@@ -39,6 +39,8 @@ See the image below for all the things you will need. Some additional notes belo
 
 ![Materials](/images/materials-measurements.jpg)
 
+**NOTE** I need to update the above image, but I would suggest using `10 cm` ink lieu of `9.5 cm`. In other words ... `43 x 10` and `10 x 17` for the interior panels.
+
 #### Materials
 
 As far as exterior and interior materials go, I've used:
@@ -55,8 +57,8 @@ I have mixed the materials for panels on both the exterior and interior.  They h
 
 After making this four times, I've gone back and adjusted the measurements some from what is on the video, with notes on why
 
-* The interior panels, I don't do the `9` on `9 x 17`, I make it 10 cm (already or soon to be adjusted in the picture above)
-* I would recommend making your nylon top more like `42 x 18` or `43 x 18`. A little overlap is fine and you can always increase the 'hem' on it to adjust it down.
+* The interior panels, I don't do the `9` on `9 x 17`, I make it `9.5 - 10 cm` (as noted above)
+* I would recommend making your nylon top more like `42 x 18` or `43 x 18`. A little overlap is fine and you can always increase the seam allowance on it to adjust it down.
 
 The main reason for the above adjustments is I've found it's easy to come up short on these two particular areas. Likely, this is because I'm not consistent enough with my seam allowance.
 
@@ -64,7 +66,7 @@ The main reason for the above adjustments is I've found it's easy to come up sho
 
 The rectangles are straightforward to cut, no surprises there.
 
-The two 18x11 cm pieces should be rounded off (cut) at the bottom. In my experience, less trimming and less rounding is more better. This time I measured them 2 cm up and 2.5 cm in from the outside and then cut/rounded them from there. See below for the marked and cut panels
+The two `18 x 11 cm` pieces should be rounded off (cut) at the bottom. In my experience, less trimming and less rounding is more better. This time I measured them `2 cm` up and `2.5 cm` in from the outside and then cut/rounded them from there. See below for the marked and cut panels
 
 ![Exterior Panels Marked](/images/exterior-panels-marked.jpg)
 
@@ -81,9 +83,9 @@ The 12x11 piece is for your outside pocket. You'll also need some gross grain (o
 
 - Sew the 4 pieces of webbing "daisy chain" to your outside panels,  two inches from the top. Keep in mind there are two "tops" on your 43x10 cm piece. If you want to watch it, it [starts here in the video](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=110s). Here are the important reminders (loosely translated)
     * Top sew these on to the exterior
-    * Sew the webbing 2.5 cm from the top (1 inch)
+    * Sew the webbing` 2.5 cm `from the top (1 inch)
     * Leave some slack (height) on the webbing as you sew each section of the daisy chain
-    * On the narrower, long piece (43x10), space out roughly 3 cm for each section.
+    * On the narrower, long piece (`43 x 10`), space out roughly `3 cm` for each section.
     * In general, leave the size gap that will accomodate your velcro. You'll later loop velcro through to attach these to your stem and bar.
 
 - Sew your edging on first, then sew the pocket onto one of your rounded exterior panels. Simply top stitch following the contour on the bottom of the panel and your pocket piece. This step and the next [start here in the video](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=207s)
@@ -114,7 +116,7 @@ Below are the interior and exterior done. I used the old sleeping pad material f
 
 ![Interior and Exterior](/images/interior-ad-exterior.jpg)
 
-- If you haven't already, turn your exterior piece right side out, and stick your interior piece in so the "nice" exterior-facing pieces are showing where they should. I mean, I totally didn't sew one of my with the internal piece turned "right-side-out" and nearly just leave it like that cuz I was tired.
+- If you haven't already, turn your exterior piece right side out, and stick your interior piece in so the "nice" exterior-facing pieces are showing where they should. I mean, I totally didn't sew my first or second one of these with the internal piece turned "right-side-out" and nearly just leave it like that cuz I was tired.
 
 - Eyeball it, pull it taut and see if they match up pretty well. Assuming so, continue on to next step, but let me show you this first.
 
@@ -122,7 +124,7 @@ Despite my best effort (see notes about about measurements and why I make the in
 
 ![Exterior Fold](/images/exterior-fold-pinch.jpg)
 
-So, I undid some of it, turned it inside out and stitched down some of the exterior seam near where that happened. No more fold/pinch after that.  And no project of mine would be complete without some janky stitches
+So, I undid some of it, turned it inside out and stitched down some of the exterior seam near where that happened. No more fold/pinch after that.  And no project of mine would be complete without some janky stitches. S'ok, these will be covered by the nylon top.
 
 ![Janky Stitches](/images/janky-stitches.jpg)
 
@@ -132,7 +134,7 @@ So, I undid some of it, turned it inside out and stitched down some of the exter
 
 ### Sew and Attach the Top
 
-- Take your `41 x 18` (or maybe `42` or `43`) piece of rip-stop nylon and wrap it around. See what the overlap is. It should be around 4 cm. If it's less then you'll double over your edges less than 2 cm. In the video, he shows stitching the edges 2cm. If you have less then 4cm of overlap, just fold your edge half of it (3cm >> 1.5cm edge on each side). In this case, mine turned out to be 3 cm of overlap and was still somewhat snug doing 1.5 cm on each side.  See [him do it starting here](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=458s)
+- Take your `41 x 18` (or maybe `42` or `43`) piece of rip-stop nylon and wrap it around. See what the overlap is. It should be around 4 cm. If it's less then you'll double over your edges less than 2 cm. In the video, he shows stitching the edges 2cm. If you have less then 4cm of overlap, just fold your edge half of it (`3 cm` >> `1.5 cm` edge on each side). In this case, mine turned out to be 3 cm of overlap and was still somewhat snug doing 1.5 cm on each side.  See [him do it starting here](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=458s)
 
 ![Nylon Edges](/images/nylon-edges.jpg)
 
@@ -150,19 +152,20 @@ I actually forgot this step and had to do it after I had already sewn it onto th
 
 ![Nylone Done](/images/nylon-top-on.jpg)
 
-I used a heavier nylon this time. Little harder to work with, but I actually like it. Also, this is when I realized I hadn't stitched down the nylon so that only the loops were avaiable to feed the cord through. On the upside, I stitched it all from memory this time.
+I used a heavier nylon this time. Little harder to work with, but I actually like it. Also, this is when I realized I hadn't stitched down the nylon so that only the loops were avaiable to feed the cord through. I did make this one without re-watcthing the video and from memory this time though.
 
 ### Finish it up
 
-- Using gross-grain or whatever you use for your edging (this is where I used spare lanyards a couple times). Fold it over the inside part of your nylon (which is still inside-out and facing down) and the inside of the bag. Stitch on your edging. To see him make it look easy with his fancy jig, [watch here](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=600s). I used clips (from the badges that the lanyards held or binder clips ... see earlier note about klugey) to help hold it as I work around.
+- Using grosgrain or whatever you use for your edging (this is where I used spare lanyards a couple times). Fold it over the inside part of your nylon (which is still inside-out and facing down) and the inside of the bag. Stitch on your edging. To see him make it look easy with his fancy jig, [watch here](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=600s). I used clips (from the badges that the lanyards held or binder clips ... see earlier note about klugey) to help hold it as I work around.
 
 I tried my lanyard again ...
 
 ![Top With Lanyard Edge](/images/top-lanyard.jpg)
 
-... and I think that was the last time I will, at least at that part of the stem bag. It didn't quite work out. I'd just suggest using actual edging, grosgrain, whatever they call it.
+... and I think that was the last time I will, at least at that part of the stem bag. It didn't quite work out. I'd just suggest using actual edging, 
+grosgrain, whatever they call it.
 
-- With that edging on, fold the nylon up. You're ready to set your cord up. Attach a small safety pin or something similar that will help you feed the cord through. Again, his measurement is 55 cm. I start with something longer and adjust it after feeding it through. Start with 55 cm (or longer if you prefer like me) and adjust at the end. Also, his set up in the video is more complex to achieve the one-handed operation for opening/closing. He starts feeding the cord[at this point in the video](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=667s). Ignore the extra fanciness unless you got the special type of cord-loc and did the extra fanciness to be ready for that part.
+- With that edging on, fold the nylon up. You're ready to set your cord up. Attach a small safety pin or something similar that will help you feed the cord through. Again, his measurement is `55 cm`. I start with something longer and adjust it after feeding it through. Start with `55 cm` (or longer if you prefer like me) and adjust at the end. Also, his set up in the video is more complex to achieve the one-handed operation for opening/closing. He starts feeding the cord[at this point in the video](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=667s). Ignore the extra fanciness unless you got the special type of cord-loc and did the extra fanciness earlier to be ready for that part.
 
 ![Cord Threaded](/images/cord-threaded.jpg)
 
