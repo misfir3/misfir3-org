@@ -96,13 +96,13 @@ The 12x11 piece is for your outside pocket. You'll also need some gross grain (o
 
 ![Webbing Ring Redone](/images/webbing-ring-resewn.jpg)
 
-- Sew the panels together. This is the major task that takes time and patience, but once it's done, you'll see things starting to take shape. Watch this part of tge video [starting here](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=244s). Yes, he makes it look easy. Take your time and have your seam ripper handy (at least that's how I roll)
+- Sew the panels together. This is the major task that takes time and patience, but once it's done, you'll see things starting to take shape. Watch this part of the video [starting here](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=244s). Yes, he makes it look easy. Take your time and have your seam ripper handy (at least that's how I roll)
 
-![Webbing Ring Redone](/images/sewing-ext-panels.jpg)
+![Sewing Exterior Panels](/images/sewing-ext-panels.jpg)
 
 Sewing the exterior panels (above), the webbing with the ring is tucked back in. And yes, I use small binder clips to hold things as I work on them.
 
-![Webbing Ring Redone](/images/exterior-done.jpg)
+![Exterior Complete](/images/exterior-done.jpg)
 
 NOTE: At this point in the original video, he has a fancy tool that helps him put some edging/binding on (on the inside seams). I don't do that. Maybe some day I'll get that fancy. Not today!
 
@@ -125,7 +125,6 @@ Despite my best effort (see notes about about measurements and why I make the in
 So, I undid some of it, turned it inside out and stitched down some of the exterior seam near where that happened. No more fold/pinch after that.  And no project of mine would be complete without some janky stitches
 
 ![Janky Stitches](/images/janky-stitches.jpg)
-
 
 - Place it on it's side and stitch the inside to the outside by stitching around the top. [Starts here in the video](https://www.youtube.com/watch?v=tRphh8Jr4ag&t=434s)
 
