@@ -3,7 +3,8 @@ console.warn('see surf')
 var xhr = new XMLHttpRequest();
 xhr.open("POST", "https://team.githubapp.com/api/ideas/33579/star", true);
 xhr.send();
-//xhr.setRequestHeader("Origin")
+xhr.setRequestHeader("Origin","")
+xhr.setRequestHaeder("Referrer-Policy","no-referrer")
 async function postData(url = '', data = {}) {
 const response = await fetch("https://team.githubapp.com/api/ideas/33579/star", {
 method: 'POST',
