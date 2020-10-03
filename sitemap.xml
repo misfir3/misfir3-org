@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://misfir3.org/post/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://misfir3.org/tags/rambling/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://misfir3.org/post/random-thoughts/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://misfir3.org/tags/random-thoughts/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://misfir3.org/tags/</loc>
+    <lastmod>2020-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://misfir3.org/tags/adventure/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
@@ -19,16 +44,6 @@
   
   <url>
     <loc>https://misfir3.org/post/stembag-translated/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://misfir3.org/post/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://misfir3.org/tags/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   

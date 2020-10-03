@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Misfir3: The Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://misfir3.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>rambling</title>
+      <link>https://misfir3.org/tags/rambling/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://misfir3.org/tags/rambling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random-thoughts</title>
+      <link>https://misfir3.org/tags/random-thoughts/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://misfir3.org/tags/random-thoughts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>adventure</title>
