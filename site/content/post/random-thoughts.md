@@ -11,7 +11,7 @@ tags = [
 feature_image = ""
 +++
 
-Lot's going on but not lots of posting. As I noted before I want to do helpful stuff on this blog. This post is selfish helpful. It's helping mejust think outloud
+Lot's going on but not lots of posting. As I noted before I want to do helpful stuff on this blog. This post is selfish helpful. It's helping me just think out loud.
 
 
 ### Cycling w Friend/s == Sanity (for me at least)
