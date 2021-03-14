@@ -62,6 +62,6 @@ But let's say they did do something to put themselves in that bad predicament? W
 
 ### Buy Some Happiness, Just Help
 
-It's that simple, if you are in a position to help ([or to earn more so you can help more](https://twitter.com/ndm/status/1370154043100729349)), then go ahead and do it. Not spending time/effort judging is rather liberating. Add helping to that and you've got a pretty powerful anti-depressant as noted in the original tweet referenced above.
+It's just that simple, if you are in a position to help ([or to earn more so you can help more](https://twitter.com/ndm/status/1370154043100729349)), then go ahead and do it. Not spending time/effort judging is rather liberating. Add helping to that and you've got a pretty powerful anti-depressant as noted in the original tweet referenced above.
 
 So, maybe you can use money to 'buy some happiness' after all.
