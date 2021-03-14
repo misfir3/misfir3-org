@@ -21,7 +21,7 @@ jobs:
       - run: sudo npm install autoprefixer
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@e2d599a0309d71c8131fb672b63ca3a578266c08
+        uses: peaceiris/actions-hugo@2e89aa66d0093e4cd14751b3028fc1a179452c2e
         with:
           hugo-version: '0.70.0'
           extended: true #this is needed for Docsy theme
@@ -30,7 +30,7 @@ jobs:
       - name: Build
         run: cd site && hugo 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@1828d864aeb7ba79a37f40035aa6d0b7ff66254f
+        uses: peaceiris/actions-gh-pages@bbdfb200618d235585ad98e965f4aafc39b4c501
         with:
           cname: misfir3.org
           github_token: ${{ secrets.GITHUB_TOKEN }}
