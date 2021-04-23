@@ -1,7 +1,7 @@
 +++
 author = "Misfir3"
 title = "A Swell Night (or Two) Out"
-date = "2021-03-14"
+date = "2021-04-23"
 description = "Post aobut a bikepacking trip"
 image = "/images/swell-night-cover.jpg"
 tags = [
