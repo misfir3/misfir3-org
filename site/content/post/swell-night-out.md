@@ -136,7 +136,7 @@ Here's some other assorted photos from the trip ...
 
 ![Pano of the trail at a bend](/images/early-pano.jpg)
 
-![Wildflower](/images/wild-desert-flower.jpg)
+![Cloudy threatening sky](/images/cloudy-sky.jpg)
 
 ![Some sky clearing during hike a bike](/images/hike-bike-blue-sky.jpg)
 
@@ -146,4 +146,6 @@ Here's some other assorted photos from the trip ...
 
 ![Cool Canyon Rim we rode along on Saturday](/images/sat-canyon-rim.jpg)
 
-![Pano of the trail at a bend](/images/another-pano.jpg)
+![Another rusted car photo](/images/sat-rusted-car.jpg)
+
+![Pano of the trail at another bend](/images/another-pano.jpg)
