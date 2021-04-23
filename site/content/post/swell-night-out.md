@@ -108,7 +108,7 @@ Rarely do you sleep great camping and this was no exception, even with as tired 
 
 While our legs felt generally OK, our hands were really cold since it was around 20F out. At least that's what Matt's little keychain thermometer thing was saying. And it was definitely cold, so I'm not going to argue too much. Immediately getting dressed, I put no nitrile gloves under my mid-weight gloves. I think this saved me a bit of pain. I also did as much breakdown etc with my gloves still on.  Matt eventually borrowed my second pair of nitrile gloves to put under his wool mid-weight gloves, but his hands were already really cold. Either way, we were ready to roll.
 
-![Saturday, ready to ride](/images/sat-ready-to-roll.jpg)
+![Saturday, ready to ride](/images/sat-ready-to-ride.jpg)
 
 I had on every bit of clothing I brought except my shorts. I put my puffy on under my rain jacket/wind breaker. I was OK moving around like that but was curious how it would be on the bike. Would the wind get to me or would I overheat quickly on our gradual climb out?
 
