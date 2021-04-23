@@ -130,9 +130,9 @@ Day two (aside from the 20F start) was turning out to be the weather I had expec
 
 The last little bit was some of the most fun the trail had to offer. Having shed a lot of the water weight and rolling down hill, I started to pop and jump off of some smaller undulations in the trail.  It was over quick then and we were back at the parking lot/car. With only 1400 feet of climbing, an earlier start and quite a bit of descening, Saturday's riding went much faster.
 
-## Assorted Photos
+## Other Post and Assorted Photos
 
-Here's some other assorted photos from the trip ...
+Here's some other assorted photos from the trip, but first the link to [Matt's blog post](https://intotheoutdoors.wordpress.com/2021/04/22/into-the-swell-bikepacking-in-the-desert/). IMO, his photo-taking is better, as is his writing.
 
 ![Pano of the trail at a bend](/images/early-pano.jpg)
 
