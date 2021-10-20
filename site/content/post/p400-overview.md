@@ -21,7 +21,7 @@ Having gotten past the heartburn of the decision making, it was time to go on Mo
 
 #### Bike
 
-I decided to take my 2019 Diamondback Haanjo. It's the bike that gets the most love and abuse because it's so versatile. I have 700c wheels and ride it on the road, but love to take it on gravel and off-road with the stock 27.5 wheels. I recently added 2.1 Teravail sparwoods to those wheels and that's what I took for this trip. 
+I decided to take my 2019 Diamondback Haanjo. It's the bike that gets the most love and abuse because it's so versatile (over 5000 miles in a little over 2 years). I have 700c wheels and ride it on the road, but love to take it on gravel and off-road with the stock 27.5 wheels. I recently added 2.1 Teravail sparwoods to those wheels and that's what I went with for this trip. 
 
 #### Bags
 
@@ -34,7 +34,7 @@ I decided to take my 2019 Diamondback Haanjo. It's the bike that gets the most l
 
 #### Hydration
 
-I carried a 32 oz Nalgene in one of the stem bags and 2 24 oz bottles. I also had two CNOC Vessica bottles. They collapse down and fit my Sawyer Mini filter. I could use them to filter water as well as carry extra water when needed. In the end, they were great for carrying extra water, but a little bit small for filtering to refill all of my bottles. Were I to do it again, I'd take the larger bag (Vectos) for filtering and one of the Vessicas for carrying extra water when needed.
+I carried a 32 oz Nalgene in one of the stem bags and 2 24 oz bottles. I mainly drank from the 24 oz bottle in the stem bag and refilled from the other bottles to that one. I also had two CNOC Vessica bottles. They collapse down and fit my Sawyer Mini filter. I could use them to filter water as well as carry extra water when needed. In the end, they were great for carrying extra water, but a little bit small for filtering to refill all of my bottles. Were I to do it again, I'd take the larger bag (Vectos) for filtering and one of the Vessicas for carrying extra water when needed.
 
 ![Bike all ready to go at Joy Ride](/images/p400-day1/joy-ride-departure.jpg)
 
@@ -85,3 +85,5 @@ I think you can always find a few things that would have helped a trip like this
 I plan to drop a few more posts (maybe group some days together or individual day posts). Some are already drafted, and I'll hopefully post them soon.
 
 ![Let's get going!](/images/p400-day1/road-ahead-1.jpg)
+
+PS - I'll drop links to the more detailed posts here once they are up.
