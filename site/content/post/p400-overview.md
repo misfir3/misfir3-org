@@ -87,3 +87,5 @@ I plan to drop a few more posts (maybe group some days together or individual da
 ![Let's get going!](/images/p400-day1/road-ahead-1.jpg)
 
 PS - I'll drop links to the more detailed posts here once they are up.
+
+PPS - I posted this while driving through Souther Idaho, using GitHub codespaces/web editor an iPad and a tethered connection!
