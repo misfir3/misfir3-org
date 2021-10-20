@@ -6,15 +6,24 @@
     <description>Recent content in Tags on Misfir3: The Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://misfir3.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>adventure</title>
+      <link>https://misfir3.org/tags/adventure/</link>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://misfir3.org/tags/adventure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>bikepacking</title>
       <link>https://misfir3.org/tags/bikepacking/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 03 Oct 2021 00:00:00 +0000</pubDate>
       
       <guid>https://misfir3.org/tags/bikepacking/</guid>
       <description></description>
@@ -53,15 +62,6 @@
       <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://misfir3.org/tags/random-thoughts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>adventure</title>
-      <link>https://misfir3.org/tags/adventure/</link>
-      <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://misfir3.org/tags/adventure/</guid>
       <description></description>
     </item>
     
