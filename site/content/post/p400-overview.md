@@ -3,12 +3,12 @@ author = "Misfir3"
 title = "Pioneer 400 Trip Overview"
 date = "2021-10-03"
 description = "Trip report from the pioneer 400"
-image = "/images/p400-day1/IMG_4471.jpg"
+image = "/images/p400-day1/looking-back-nice-view.jpg"
 tags = [
     "bikepacking",
 	"adventure"
 ]
-feature_image = "/images/p400-day1/IMG_4471.jpg"
+feature_image = "/images/p400-day1/looking-back-nice-view.jpg"
 +++
 
 ## Pioneer 400
@@ -86,6 +86,8 @@ I plan to drop a few more posts (maybe group some days together or individual da
 
 ![Let's get going!](/images/p400-day1/road-ahead-1.jpg)
 
-PS - I'll drop links to the more detailed posts here once they are up.
+### Individual Day Posts
 
-PPS - I posted this while driving through Souther Idaho, using GitHub codespaces/web editor an iPad and a tethered connection!
+I'll drop links to the more detailed posts here once they are up. Almost two months out and the first is up!
+
+[Day 1](/post/p400-day1)
