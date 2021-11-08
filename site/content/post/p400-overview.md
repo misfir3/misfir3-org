@@ -91,3 +91,7 @@ I plan to drop a few more posts (maybe group some days together or individual da
 I'll drop links to the more detailed posts here once they are up. Almost two months out and the first is up!
 
 [Day 1](/post/p400-day1)
+
+[Day 2](/post/p400-day2)
+
+Days 3 -5 coming
