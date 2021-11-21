@@ -8,6 +8,8 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
+[markup.goldmark.renderer]
+unsafe = true
 
 UsePostImgFolder = true
 [privacy]
